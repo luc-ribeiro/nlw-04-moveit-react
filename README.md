@@ -27,7 +27,7 @@ O move.it é um app que une a técnica de Pomodoro com a realização de exercí
 Faça um clone deste repositório:
 
 ```sh
-  $ git clone https://github.com/luc-ribeiro/nlw-04-react.git
+  $ git clone https://github.com/luc-ribeiro/nlw-04-react-moveit.git
 ```
 
 Instale as dependências:
