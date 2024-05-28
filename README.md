@@ -5,16 +5,18 @@ Next Level Week #04 - Move.it
 
   ![Moveit](https://github.com/luc-ribeiro/nlw-04-react/blob/master/design/logo.png?raw=true)
 </h1>
+
+<div align="right">
+  Clique <a href="https://github.com/luc-ribeiro/nlw-04-moveit-react/blob/master/README-PTBR.md">aqui</a> para ver a versão em Português.
+</div>
 <br>
 
-## 💻 Projeto
-Este projeto foi criado durante o evento Next Level Week #04 da Rocketseat.
+## 💻 Project
+Move.it is an app that combines the Pomodoro technique with physical exercises for people who spend a lot of time in front of the computer.
 
-O move.it é um app que une a técnica de Pomodoro com a realização de exercícios físicos para quem passa muito tempo na frente do computador.
+## 🚀 Technologies
 
-## 🚀 Tecnologias
-
-- **React** 
+- **React**
 - **Next.js**
 - **TypeScript**
 
@@ -22,37 +24,32 @@ O move.it é um app que une a técnica de Pomodoro com a realização de exercí
 
 ![banner](https://github.com/luc-ribeiro/nlw-04-react/blob/master/design/mockup.png)
 
-## :page_facing_up: Como utilizar
+## :page_facing_up: How to use
 
-Faça um clone deste repositório:
+Clone this repository:
 
 ```sh
-  $ git clone https://github.com/luc-ribeiro/nlw-04-react-moveit.git
+  $ git clone https://github.com/luc-ribeiro/nlw-04-react-moveit-react.git
 ```
 
-Instale as dependências:
+Install the dependencies:
 
 ```sh
-  # com npm
+  # with npm
   $ npm install
 
-  # com yarn
+  # with yarn
   $ yarn install
 ```
 
-Execute o comando:
+Run the command:
 
 ```sh
-  # com npm
+  # with npm
   $ npm start
 
-  # com yarn
+  # with yarn
   $ yarn start
 ```
 
-Acesse o projeto em `localhost:3000`
-
-
-## :memo: License
-
-Copyright © 2020 Lucas Ribeiro / Rocketseat
+Access the project at `localhost:3000`
